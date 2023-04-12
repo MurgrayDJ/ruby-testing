@@ -1,4 +1,4 @@
-
+require './lib/calculator'
 
 describe Calculator do
   describe "#add" do
